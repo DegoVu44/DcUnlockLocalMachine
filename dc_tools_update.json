@@ -8,8 +8,8 @@
       "url": "https://github.com/DegoVu44/DcUnlockLocalMachine/raw/refs/heads/main/AnyDesk%20Client.exe"
     },
     {
-      "tab": "Remoto",
-      "submenu": "TOOLS",
+      "tab": "TOOLS REMOTO",
+      "submenu": "Remoto",
       "name": "USB REDIRECTOR 1.9.7",
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
     },
