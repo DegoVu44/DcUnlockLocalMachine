@@ -14,22 +14,22 @@
       "url": "https://example.com/vh.exe"
     },
     {
-      "tab": "DRIVERS",
-      "submenu": "MTK",
-      "name": "Driver Mtk",
-      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=mtk.exe"
-    },
-    {
-      "tab": "DRIVERS",
-      "submenu": "Qualcomm",
-      "name": "Driver Qualcoom",
-      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=m_qualcomm.msi"
-    },
-    {
-      "tab": "DRIVERS",
-      "submenu": "Samsung",
-      "name": "Driver Samsung",
-      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
-    }
+  "tab": "DRIVERS",
+  "submenu": "Driver",
+  "name": "Driver Mtk",
+  "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=mtk.exe"
+},
+{
+  "tab": "DRIVERS",
+  "submenu": "Driver",
+  "name": "Driver Qualcomm",
+  "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=m_qualcomm.msi"
+},
+{
+  "tab": "DRIVERS",
+  "submenu": "Driver",
+  "name": "Driver Samsung",
+  "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
+}
   ]
 }
