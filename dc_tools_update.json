@@ -6,16 +6,20 @@
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
     },
     {
-      "name": "AnydeskClient",
-      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG"
+      "name": "Driver MTK",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=mtk.exe"
     },
     {
-      "name": "Prueba 1",
-      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
+      "name": "Driver Qualcoom",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=m_qualcomm.msi"
     },
     {
-      "name": "Prueba 2",
-      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
+      "name": "Driver SPD",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=spd.7z"
+      },
+    {
+      "name": "Driver Samsung",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
       }
       
   ]
