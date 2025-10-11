@@ -1,9 +1,18 @@
 {
   "version": "0.0.1",
   "tools": [
+    }
+    {
+      "name": "AnydeskClient",
+      "url": "https://github.com/DegoVu44/DcUnlockLocalMachine/raw/refs/heads/main/AnyDesk%20Client.exe"
+    },
     {
       "name": "USB REDIRECTOR 1.9.7",
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
+    },
+    {
+      "name": "Unlocktool",
+      "url": "https://update.unlocktool.net/uploads/UnlockTool-2025-09-21-0.zip"
     },
     {
       "name": "Driver Mtk",
