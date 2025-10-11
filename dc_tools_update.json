@@ -12,6 +12,7 @@
       "submenu": "TOOLS",
       "name": "USB REDIRECTOR 1.9.7",
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
+    },
     {
       "tab": "SERVERBOX TOOL",
       "submenu": "Conexión",
@@ -29,25 +30,24 @@
       "submenu": "Tool Server",
       "name": "Octoplus Samsung Installer v5.0.4.2",
       "url": "https://octoplusbox.com/files/softs/install_octoplus_samsung_5.0.4.2.exe"
+    },
     {
-  "tab": "DRIVERS",
-  "submenu": "Driver",
-  "name": "MTK",
-  "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=mtk.exe"
-},
-{
-  "tab": "DRIVERS",
-  "submenu": "Driver",
-  "name": "QUALCOOM",
-  "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=m_qualcomm.msi"
-},
-{
-  "tab": "DRIVERS",
-  "submenu": "Driver",
-  "name": "Samsung",
-  "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
-}
-    
-    
+      "tab": "DRIVERS",
+      "submenu": "Driver",
+      "name": "MTK",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=mtk.exe"
+    },
+    {
+      "tab": "DRIVERS",
+      "submenu": "Driver",
+      "name": "QUALCOOM",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=m_qualcomm.msi"
+    },
+    {
+      "tab": "DRIVERS",
+      "submenu": "Driver",
+      "name": "Samsung",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
+    }
   ]
 }
