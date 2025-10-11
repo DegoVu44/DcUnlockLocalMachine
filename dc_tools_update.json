@@ -1,13 +1,39 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "launcher": {
+    "version": "0.0.2",
+    "url": "https://tu-servidor.com/DCUnlockLauncher_0.0.2.exe",
+    "hash": "sha256delarchivo"
+  },
+  "config": {
+    "modo_oscuro": true,
+    "color_botones": "#2a2d2e",
+    "color_hover": "#1f6aa5",
+    "mensaje_welcome": "Bienvenido a DCUnlock Tools",
+    "logo_url": "https://tu-servidor.com/logo.png"
+  },
   "tools": [
     {
       "name": "USB REDIRECTOR 1.9.7",
-      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
+      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe",
+      "hash": "",
+      "icon_url": "https://tu-servidor.com/icons/usb.png"
     },
     {
       "name": "AnydeskClient",
-      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG"
+      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG",
+      "hash": "",
+      "icon_url": "https://tu-servidor.com/icons/anydesk.png"
+    }
+  ],
+  "commands": [
+    {
+      "type": "alert",
+      "message": "Se agregaron nuevas herramientas!"
+    },
+    {
+      "type": "disable_tool",
+      "tool_name": "AnydeskClient"
     }
   ]
 }
