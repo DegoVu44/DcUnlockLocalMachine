@@ -18,15 +18,6 @@
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
     },
     {
-      "name": "AnydeskClient",
-      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG"
+      "name": "G-IMEI",
+      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/G-IMEI.exe"
     }
-  ],
-  "frp_variants": [
-    "Motorola MTK",
-    "Motorola SPD",
-    "Samsung FRP",
-    "Xiaomi FRP"
-  ]
-}
-
