@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "0.0.1",
   "tools": [
     {
-      "name": "Ejemplo 1",
-      "url": "https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/PortableGit-2.46.0-64-bit.7z.exe"
+      "name": "USB REDIRECTOR 1.9.7",
+      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
     },
     {
       "name": "Ejemplo 2",
