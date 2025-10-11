@@ -1,7 +1,6 @@
 {
   "version": "0.0.1",
   "tools": [
-
     {
       "name": "AnydeskClient",
       "url": "https://github.com/DegoVu44/DcUnlockLocalMachine/raw/refs/heads/main/AnyDesk%20Client.exe"
@@ -25,15 +24,25 @@
     {
       "name": "Driver SPD",
       "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=spd.7z"
-      },
+    },
     {
       "name": "Driver Samsung",
       "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
-      },
+    },
+    {
+      "name": "Radmin VPN",
+      "tab": "SERVERBOX TOOL",
+      "url": "off"
+    },
+    {
+      "name": "VH",
+      "tab": "SERVERBOX TOOL",
+      "url": "off"
+    },
     {
       "name": "off",
       "url": "off"
-      }
-      
+    }
   ]
 }
+
