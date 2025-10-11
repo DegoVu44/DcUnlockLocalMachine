@@ -3,15 +3,21 @@
   "tools": [
     {
       "tab": "TOOLS REMOTO",
-      "submenu": "TOOLS",
+      "submenu": "Remoto",
       "name": "ANYDESK CLIENT",
       "url": "https://github.com/DegoVu44/DcUnlockLocalMachine/raw/refs/heads/main/AnyDesk%20Client.exe"
     },
     {
-      "tab": "TOOLS REMOTO",
+      "tab": "Remoto",
       "submenu": "TOOLS",
       "name": "USB REDIRECTOR 1.9.7",
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
+    },
+    {
+      "tab": "TOOLS REMOTO",
+      "submenu": "Tools",
+      "name": "AMT",
+      "url": "https://dl.androidmultitool.com/Android_Multi_Tool_v1.3.3.4.exe"
     },
     {
       "tab": "SERVERBOX TOOL",
