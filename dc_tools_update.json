@@ -1,7 +1,7 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.1",
   "launcher": {
-    "version": "0.0.2",
+    "version": "0.0.1",
     "url": "https://tu-servidor.com/dc_tools.py",
     "hash": "55d00eca42e734c9b1e32d59192729ca0a307a72"
   },
