@@ -1,10 +1,5 @@
 {
-  "version": "0.0.2",
-  "launcher": {
-    "version": "0.0.2",
-    "url": "https://tu-servidor.com/DCUnlockLauncher_0.0.2.exe",
-    "hash": "sha256delarchivo"
-  },
+  "version": "0.0.1",
   "config": {
     "modo_oscuro": true,
     "color_botones": "#2a2d2e",
@@ -14,26 +9,12 @@
   },
   "tools": [
     {
-      "name": "USB REDIRECTOR 1.9.7",
-      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe",
-      "hash": "",
-      "icon_url": "https://tu-servidor.com/icons/usb.png"
+      "name": "USB REDIRECTOR",
+      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
     },
     {
       "name": "AnydeskClient",
-      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG",
-      "hash": "",
-      "icon_url": "https://tu-servidor.com/icons/anydesk.png"
-    }
-  ],
-  "commands": [
-    {
-      "type": "alert",
-      "message": "Se agregaron nuevas herramientas!"
-    },
-    {
-      "type": "disable_tool",
-      "tool_name": "AnydeskClient"
+      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG"
     }
   ]
 }
