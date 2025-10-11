@@ -1,23 +1,13 @@
 {
   "version": "0.0.1",
-  "launcher": {
-    "version": "0.0.1",
-    "url": "https://tu-servidor.com/dc_tools.py",
-    "hash": "55d00eca42e734c9b1e32d59192729ca0a307a72"
-  },
-  "config": {
-    "modo_oscuro": true,
-    "color_botones": "#2a2d2e",
-    "color_hover": "#1f6aa5",
-    "mensaje_welcome": "Bienvenido a DCUnlock Tools",
-    "logo_url": "https://raw.githubusercontent.com/DegoVu44/DcUnlockLocalMachine/main/logo.png"
-  },
   "tools": [
     {
-      "name": "USB REDIRECTOR",
+      "name": "USB REDIRECTOR 1.9.7",
       "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/usbredirector-customer-module.exe"
     },
     {
-      "name": "G-IMEI",
-      "url": "https://guerradone.s3.dualstack.sa-east-1.amazonaws.com/tools/extra/G-IMEI.exe"
+      "name": "AnydeskClient",
+      "url": "https://drive.google.com/uc?export=download&id=1He1rEQFCBYrVd3KDIq0qaqXHsJlDkkVG"
     }
+  ]
+}
