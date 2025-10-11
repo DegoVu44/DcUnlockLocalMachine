@@ -1,16 +1,16 @@
 {
   "version": "0.0.1",
   "launcher": {
-    "version": "0.0.1",
-    "url": "",
-    "hash": ""
+    "version": "0.0.2",
+    "url": "https://tu-servidor.com/DCUnlockLauncher_0.0.2.exe",
+    "hash": "55d00eca42e734c9b1e32d59192729ca0a307a72"
   },
   "config": {
     "modo_oscuro": true,
     "color_botones": "#2a2d2e",
     "color_hover": "#1f6aa5",
     "mensaje_welcome": "Bienvenido a DCUnlock Tools",
-    "logo_url": "https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-500x281.png"
+    "logo_url": "https://raw.githubusercontent.com/DegoVu44/DcUnlockLocalMachine/main/logo.png"
   },
   "tools": [
     {
