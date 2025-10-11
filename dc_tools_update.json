@@ -46,8 +46,14 @@
     {
       "tab": "DRIVERS",
       "submenu": "Driver",
-      "name": "Samsung",
+      "name": "SAMSUNG",
       "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
+    },
+    {
+      "tab": "DRIVERS",
+      "submenu": "Driver",
+      "name": "UNISOC/SPD",
+      "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=spd.7z"
     }
   ]
 }
