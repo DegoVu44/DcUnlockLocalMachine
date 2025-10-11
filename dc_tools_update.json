@@ -30,6 +30,18 @@
   "submenu": "Driver",
   "name": "Driver Samsung",
   "url": "https://guerratool.com/TDC?request_type=2&dir=temp&file=SAMSUNG.exe"
-}
+},
+    {
+      "tab": "TOOLS REMOTO",
+      "submenu": "",
+      "name": "ANYDESK CLIENT",
+      "url": "https://link-directo-a-radmin.exe"
+    },
+    {
+      "tab": "TOOLS REMOTO",
+      "submenu": "",
+      "name": "USB REDIRECTOR 1.9.7",
+      "url": "https://link-directo-a-vh.exe"
+    }
   ]
 }
