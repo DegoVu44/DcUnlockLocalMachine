@@ -20,6 +20,12 @@
       "url": "https://dl.androidmultitool.com/Android_Multi_Tool_v1.3.3.4.exe"
     },
     {
+      "tab": "TOOLS REMOTO",
+      "submenu": "Tools",
+      "name": "3Utools",
+      "url": "https://url.3u.com/zmAJjyaa"
+    },
+    {
       "tab": "SERVERBOX TOOL",
       "submenu": "Conexión",
       "name": "Radmin VPN",
